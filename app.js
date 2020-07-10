@@ -19,7 +19,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(express.static(path.resolve(__dirname, 'public')));
 
 
-
+//hai
 
 app.get('/',(req,res) => {
     res.render('login');
