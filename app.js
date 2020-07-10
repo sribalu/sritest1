@@ -36,7 +36,7 @@ app.post('/insertregister', function (req, res) {
 
     });
 
-   //
+   //sriiiiii
 
 
   //  app.get('/createcustomer',(req,res) => {
